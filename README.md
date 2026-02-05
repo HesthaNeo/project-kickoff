@@ -10,9 +10,15 @@ VoIP, and Wireless infrastructure devices supporting the requirements detailed i
 
 <h2><em>Environments and Technologies Used</em></h2>
         <ul>
-            <li>Microsoft Azure (Virtual Machines/Compute)</li>
-            <li>Remote Desktop</li>
-            <li>Internet Information Services (IIS)</li>
+            <li>2 Cisco WS-C3560-24PS</li>
+            <li>5 Cisco WS-C2960-24TT</li>
+            <li>59 Cisco CP-7960(IIS)</li>
+            <li>3 PT-WIRELESS-AP</li>
+            <li>1 CISCO2901/K9 With ipbasek9 and securityk9 licensing</li>
+            <li>1 CISCO2911/K9 With ipbasek9 and securityk9 licensing</li>
+            <li>1 CISCO2911/K9 With ipbasek9 and uck9 licensing</li>
+            <li>1 CISCO2911/K9 With ipbasek9, securityk9 and uck9 licensing</li>
+            <li>1 CISCO1941/K9 With ipbasek9 and securityk9 licensing</li>
         </ul>
     <h2><em>Operating Systems Used</em></h2>
         <ul>

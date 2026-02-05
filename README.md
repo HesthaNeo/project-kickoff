@@ -2,7 +2,7 @@
 <img width="1280" height="722" alt="Screenshot 2026-02-05 163333" src="https://github.com/user-attachments/assets/03ee6702-6902-4d0d-a068-23c4017c7f43" />
 
 </p>
-<h1><u>osTicket - Prerequisites and Installation</u></h1>
+<h1><u>Milestone 1: Project Kick:Off</u></h1>
     <p>This lab demonstration outlines the prerequisites and installation of the open-source help desk ticketing system, osTicket.</p>
     <h2><em>Environments and Technologies Used</em></h2>
         <ul>

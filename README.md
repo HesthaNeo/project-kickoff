@@ -28,7 +28,7 @@ VoIP, and Wireless infrastructure devices supporting the requirements detailed i
         <ul>
             <li>Build Redundancy Into The Headquarters Core LAN Switched Infrastructure</li>
             <li>Single Internet Exit Point Via Headquarters</li>
-            <li>Headquarters: 1 Internet Connected, 1 Private WAV Connection, and 1 PSTN Connection</li>
+            <li>Headquarters: 1 Internet Connected, 1 Private WAN Connection, and 1 PSTN Connection</li>
             <li>Branch 1: 1 Private WAN Connection, and 1 PSTN Connection</li>
             <li>Branch 2: 1 Internet Connection</li>
             <li>(Private WAN Access Is Not Available At The Branch 2 Location And A L2L VPN Will Be Configured Over The Internet For Branch 2 Access Back To HQ and Branch 1</li>

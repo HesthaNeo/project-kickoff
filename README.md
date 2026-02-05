@@ -8,7 +8,7 @@ headquarters and two branch office facilities. This project includes the install
 VoIP, and Wireless infrastructure devices supporting the requirements detailed in the following table:</p>
 <img width="672" height="346" alt="Screenshot 2026-02-05 165633" src="https://github.com/user-attachments/assets/4c8808e1-ebb5-446d-9cb0-3134bc99a107" />
 
-<h2><em>Environments and Technologies Used</em></h2>
+<h2><em>Equipment and Technologies Used</em></h2>
         <ul>
             <li>2 Cisco WS-C3560-24PS</li>
             <li>5 Cisco WS-C2960-24TT</li>
@@ -20,9 +20,9 @@ VoIP, and Wireless infrastructure devices supporting the requirements detailed i
             <li>1 CISCO2911/K9 With ipbasek9, securityk9 and uck9 licensing</li>
             <li>1 CISCO1941/K9 With ipbasek9 and securityk9 licensing</li>
         </ul>
-    <h2><em>Operating Systems Used</em></h2>
+    <h2><em>Program Used</em></h2>
         <ul>
-            <li>Windows 10 (21H2)</li>
+            <li>Packet Tracer</li>
         </ul>
     <h2><em>List of Prerequisites</em></h2>
         <ul>

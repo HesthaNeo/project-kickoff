@@ -1,5 +1,5 @@
 <p align="center">
-<img src="<img width="1280" height="722" alt="image" src="https://github.com/user-attachments/assets/28c27e32-fc8f-4be7-8df8-6e0b9eb866de" />
+<img src="[<img width="1280" height="722" alt="image" src="https://github.com/user-attachments/assets/28c27e32-fc8f-4be7-8df8-6e0b9eb866de](https://imgur.com/a/fX6Eujg)" />
 "/>
 </p>
 <h1><u>osTicket - Prerequisites and Installation</u></h1>

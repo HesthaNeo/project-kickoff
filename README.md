@@ -8,7 +8,7 @@ headquarters and two branch office facilities. This project includes the install
 VoIP, and Wireless infrastructure devices supporting the requirements detailed in the following table:</p>
 <img width="672" height="346" alt="Screenshot 2026-02-05 165633" src="https://github.com/user-attachments/assets/4c8808e1-ebb5-446d-9cb0-3134bc99a107" />
 
-    <h2><em>Environments and Technologies Used</em></h2>
+<h2><em>Environments and Technologies Used</em></h2>
         <ul>
             <li>Microsoft Azure (Virtual Machines/Compute)</li>
             <li>Remote Desktop</li>

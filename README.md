@@ -20,7 +20,7 @@ VoIP, and Wireless infrastructure devices supporting the requirements detailed i
             <li>1 CISCO2911/K9 With ipbasek9, securityk9 and uck9 licensing</li>
             <li>1 CISCO1941/K9 With ipbasek9 and securityk9 licensing</li>
         </ul>
-    <h2><em>Program Used</em></h2>
+    <h2><em>Virtual Program Used</em></h2>
         <ul>
             <li>Packet Tracer</li>
         </ul>

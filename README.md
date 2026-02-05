@@ -3,7 +3,9 @@
 
 </p>
 <h1><u>Milestone 1: Project Kick:Off</u></h1>
-    <p>This lab demonstration outlines the prerequisites and installation of the open-source help desk ticketing system, osTicket.</p>
+    <p>The purpose of this project is to deploy a robust network infrastructure in support of a mock corporate company with a 
+headquarters and two branch office facilities. This project includes the installation of LAN, WAN, Security, 
+VoIP, and Wireless infrastructure devices supporting the requirements detailed in the following table:.</p>
     <h2><em>Environments and Technologies Used</em></h2>
         <ul>
             <li>Microsoft Azure (Virtual Machines/Compute)</li>

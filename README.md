@@ -5,7 +5,9 @@
 <h1><u>Milestone 1: Project Kick:Off</u></h1>
     <p>The purpose of this project is to deploy a robust network infrastructure in support of a mock corporate company with a 
 headquarters and two branch office facilities. This project includes the installation of LAN, WAN, Security, 
-VoIP, and Wireless infrastructure devices supporting the requirements detailed in the following table:.</p>
+VoIP, and Wireless infrastructure devices supporting the requirements detailed in the following table:</p>
+<img width="672" height="346" alt="Screenshot 2026-02-05 165633" src="https://github.com/user-attachments/assets/4c8808e1-ebb5-446d-9cb0-3134bc99a107" />
+
     <h2><em>Environments and Technologies Used</em></h2>
         <ul>
             <li>Microsoft Azure (Virtual Machines/Compute)</li>

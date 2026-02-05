@@ -24,13 +24,14 @@ VoIP, and Wireless infrastructure devices supporting the requirements detailed i
         <ul>
             <li>Packet Tracer</li>
         </ul>
-    <h2><em>List of Prerequisites</em></h2>
+    <h2><em>Scope Of Work</em></h2>
         <ul>
-            <li>Enable Internet Information Services (IIS) with CGI (Common Gateway Interface)</li>
-            <li>Install Web Platform Installer</li>
-            <li>Install C++ Redistributable</li>
-            <li>Install MySQL and Setup Username and Password</li>
-            <li>Configure Permissions and Install osTicket</li>
+            <li>Build Redundancy Into The Headquarters Core LAN Switched Infrastructure</li>
+            <li>Single Internet Exit Point Via Headquarters</li>
+            <li>Headquarters: 1 Internet Connected, 1 Private WAV Connection, and 1 PSTN Connection</li>
+            <li>Branch 1: 1 Private WAN Connection, and 1 PSTN Connection</li>
+            <li>Branch 2: 1 Internet Connection</li>
+            <li>(Private WAN Access Is Not Available At The Branch 2 Location And A L2L VPN Will Be Configured Over The Internet For Branch 2 Access Back To HQ and Branch 1</li>
         </ul>
     <h2><strong><u>Installation Steps</u></strong></h2>
         <h3>Step 1: Enable Internet Information Services (IIS) with CGI (Common Gateway Interface)</h3>
